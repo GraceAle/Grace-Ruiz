@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+img {
+  width: 25%
+}
+
+.header {
+  margin: 3%;
+  color: #008EA1;
+}
+
+table {
+  align-items: center;
+  margin: auto;
+}
+
+body {
+  background-color: #C8C8C8;
+}
+
+.iphone {
+  color: #CE45FB;
+}
+
+.iphone4 {
+  color: #0F8404;
+}
+
+.iphone7 {
+  color: #C58A00;
+}
+
+.iphonex {
+  color: #0A00C5;
+}
+
+.iphone12 {
+  color: #0078C5;
+}
